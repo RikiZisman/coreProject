@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6fh6u2VJnbpg3temvmdpe15twWOkq6XAersUEH+jP00RGfTDiAIA49xrR48TPtqmy/ympJSZIXfyoqWPM9i/w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\לימודים מקוונים\\core\\Tasks-project-main\\Tasks\\core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    }
+  ]
+}
